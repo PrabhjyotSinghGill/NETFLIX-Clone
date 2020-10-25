@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PrabhjyotSinghGill/NETFLIX-Clone/static/css/main.aed9d8cf.chunk.css",
+    "main.js": "/PrabhjyotSinghGill/NETFLIX-Clone/static/js/main.7458a109.chunk.js",
+    "main.js.map": "/PrabhjyotSinghGill/NETFLIX-Clone/static/js/main.7458a109.chunk.js.map",
+    "runtime-main.js": "/PrabhjyotSinghGill/NETFLIX-Clone/static/js/runtime-main.5d17cbd9.js",
+    "runtime-main.js.map": "/PrabhjyotSinghGill/NETFLIX-Clone/static/js/runtime-main.5d17cbd9.js.map",
+    "static/js/2.2388b70d.chunk.js": "/PrabhjyotSinghGill/NETFLIX-Clone/static/js/2.2388b70d.chunk.js",
+    "static/js/2.2388b70d.chunk.js.map": "/PrabhjyotSinghGill/NETFLIX-Clone/static/js/2.2388b70d.chunk.js.map",
+    "index.html": "/PrabhjyotSinghGill/NETFLIX-Clone/index.html",
+    "precache-manifest.1728045ac3f3e77c2ea773dc5d9fce2a.js": "/PrabhjyotSinghGill/NETFLIX-Clone/precache-manifest.1728045ac3f3e77c2ea773dc5d9fce2a.js",
+    "service-worker.js": "/PrabhjyotSinghGill/NETFLIX-Clone/service-worker.js",
+    "static/css/main.aed9d8cf.chunk.css.map": "/PrabhjyotSinghGill/NETFLIX-Clone/static/css/main.aed9d8cf.chunk.css.map",
+    "static/js/2.2388b70d.chunk.js.LICENSE.txt": "/PrabhjyotSinghGill/NETFLIX-Clone/static/js/2.2388b70d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d17cbd9.js",
+    "static/js/2.2388b70d.chunk.js",
+    "static/css/main.aed9d8cf.chunk.css",
+    "static/js/main.7458a109.chunk.js"
+  ]
+}
